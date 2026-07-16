@@ -6,8 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+During my internship at Bootcamp First Cloud AI Journey from April 20, 2026 to July 30, 2026, I had the opportunity to learn, practice, and apply the knowledge I had gained at university in a real working environment. During the internship, I participated in learning AWS services and practicing the deployment of the SUMMER-STORE website on the cloud platform. Through this process, I improved my self-learning ability, troubleshooting skills, technical report writing, and gained a better understanding of how to deploy a real web system on AWS.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
 

@@ -11,7 +11,7 @@ pre: " <b> 4.3. </b> "
 
 | Item | Details |
 |---|---|
-| **Event name** | Cloud Architect Final & AWS Meetup 11/07/2026 |
+| **Event name** | Event Meetup |
 | **Time** | 09:00  11/07/2026 |
 | **Location** | 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City |
 | **Role** | Attendee |

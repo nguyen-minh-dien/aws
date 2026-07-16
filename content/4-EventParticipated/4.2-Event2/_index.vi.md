@@ -11,7 +11,7 @@ pre: " <b> 4.2. </b> "
 
 | Nội dung | Chi tiết |
 |---|---|
-| **Tên sự kiện** | AWS Study Group Meetup 06/06/2026 |
+| **Tên sự kiện** | Event Meetup |
 | **Thời gian** | 09:00 06/06/2026 |
 | **Địa điểm** | Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh |
 | **Vai trò** | Người tham dự |

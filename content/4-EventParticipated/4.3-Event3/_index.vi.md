@@ -11,7 +11,7 @@ pre: " <b> 4.3. </b> "
 
 | Nội dung | Thông tin |
 |---|---|
-| **Tên sự kiện** | Cloud Architect Final & AWS Meetup 11/07/2026 |
+| **Tên sự kiện** | Event Meetup |
 | **Thời gian** | 09:00  ngày 11/07/2026 |
 | **Địa điểm** | Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh |
 | **Vai trò** | Người tham dự |
